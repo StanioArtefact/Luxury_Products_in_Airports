@@ -1,0 +1,29 @@
+# Ignorer les environnements virtuels
+venv/
+env/
+.lux/
+lux/
+.venv/
+.env/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Fichiers Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Fichiers de logs
+*.log
+
+# Fichiers système / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Fichiers de configuration sensibles
+*.env
+.env.*

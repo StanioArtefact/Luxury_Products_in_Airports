@@ -1,0 +1,55 @@
+Rank,Airport,Location,Country,"Code
+(IATA/ICAO)","Total
+passengers","Rank
+change","%
+change"
+1,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,ATL/KATL,"108,067,766[4]",,3.30%
+2,Dubai International Airport,"Garhoud, Dubai, Dubai",United Arab Emirates,DXB/OMDB,"092,300,000[5]",,6.20%
+3,Dallas Fort Worth International Airport,"Dallas–Fort Worth, Texas",United States,DFW/KDFW,"087,817,864[6]",,7.40%
+4,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,HND/RJTT,"085,000,000[7]",1,8.00%
+5,Heathrow Airport,"Hillingdon, London",United Kingdom,LHR/EGLL,"083,882,140[8]",1,5.90%
+6,Denver International Airport,"Denver, Colorado",United States,DEN/KDEN,"082,358,744[9]",,5.80%
+7,O'Hare International Airport,"Chicago, Illinois",United States,ORD/KORD,"080,043,050[10]",2,8.60%
+8,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,IST/LTFM,"079,988,272[11]",1,3.90%
+9,Indira Gandhi International Airport,"Palam, Delhi",India,DEL/VIDP,"077,820,834[12]",1,7.80%
+10,Shanghai Pudong International Airport,"Pudong, Shanghai",China,PVG/ZSPD,"076,787,039[13]",11,41.00%
+11,Los Angeles International Airport,"Los Angeles, California",United States,LAX/KLAX,"076,587,980[14]",3,2.00%
+12,Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,CAN/ZGGG,"076,364,767[13]",,20.90%
+13,Seoul Incheon International Airport,"Jung District, Incheon",South Korea,ICN/RKSI,"070,669,246[15]",7,26.70%
+14,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,CDG/LFPG,"070,290,260[16]",3,4.30%
+15,Singapore Changi Airport,"Changi, East Region",Singapore,SIN/WSSS,"067,700,000[17]",2,14.80%
+16,Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,PEK/ZBAA,"067,367,428[13]",7,27.40%
+17,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,AMS/EHAM,"066,828,453[18]",3,8.00%
+18,Adolfo Suárez Madrid–Barajas Airport,"Community of Madrid, Barajas",Spain,MAD/LEMD,"066,196,984[19]",3,9.90%
+19,John F. Kennedy International Airport,"Queens, New York, New York",United States,JFK/KJFK,"063,265,984[20]",6,1.90%
+20,Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,SZX/ZGSZ,"061,477,337[13]",4,16.60%
+21,Suvarnabhumi Airport,"Racha Thewa, Bangkok metro",Thailand,BKK/VTBS,"059,999,324[21]",5,16.10%
+22,Frankfurt Airport,"Frankfurt, Hesse",Germany,FRA/EDDF,"059,359,539[22]",6,3.70%
+23,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,CLT/KCLT,"058,811,725[23]",1,10.00%
+24,Harry Reid International Airport,"Las Vegas, Nevada",United States,LAS/KLAS,"058,447,782[24]",5,1.40%
+25,Orlando International Airport,"Orlando, Florida",United States,MCO/KMCO,"057,211,628[25]",7,0.90%
+26,Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,KUL/WMKK,"057,044,869[26]",9,20.70%
+27,Miami International Airport,"Miami-Dade County, Florida",United States,MIA/KMIA,"055,926,566[27]",2,6.80%
+28,Josep Tarradellas Barcelona–El Prat Airport,"Catalonia, El Prat de Llobregat",Spain,BCN/LEBL,"055,034,955[19]",2,10.30%
+29,Chengdu Tianfu International Airport,"Jianyang, Chengdu, Sichuan",China,TFU/ZUTF,"054,905,784[13]",10,22.60%
+30,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,CGK/WIII,"054,809,500[28]",2,11.7.%
+31,Chhatrapati Shivaji Maharaj International Airport,"Santacruz-Sahar, Mumbai, Maharashtra",India,BOM/VABB,"054,800,000[12]",4,6.30%
+32,Hong Kong International Airport,"Chek Lap Kok, New Territories",Hong Kong,HKG/VHHH,"053,100,000[29]",19,34.30%
+33,Hamad International Airport,Doha,Qatar,DOH/OTHH,"052,700,000[30]",4,14.80%
+34,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,SEA/KSEA,"052,640,716[31]",6,3.40%
+35,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,PHX/KPHX,"052,325,266[32]",2,17.90%
+36,San Francisco International Airport,"San Mateo County, California",United States,SFO/KSFO,"052,288,098[33]",7,4.10%
+37,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,MNL/RPLL,"050,100,000[34]",1,10.40%
+38,Beijing Daxing International Airport,"Daxing District, Beijing",China,PKX/ZBAD,"049,441,029[13]",14,25.50%
+39,Rome Fiumicino Airport,"Rome, Lazio",Italy,FCO/LIRF,"049,203,734[35]",,21.40%
+40,King Abdulaziz International Airport,Jeddah,Saudi Arabia,JED/OEJN,"049,100,000[36]",2,15.00%
+41,Newark Liberty International Airport,"Newark, New Jersey",United States,EWR/KEWR,"048,853,370[20]",10,0.50%
+42,Chongqing Jiangbei International Airport,Chongqing,China,CKG/ZUCK,"048,676,973[13]",1,9.00%
+43,George Bush Intercontinental Airport,"Houston, Texas",United States,IAH/KIAH,"048,448,545[37]",7,4.80%
+44,Hangzhou Xiaoshan International Airport,"Hangzhou, Zhejiang",China,HGH/ZSHC,"048,053,915[13]",3,16.70%
+45,Shanghai Hongqiao International Airport,Shanghai,China,SHA/ZSSS,"047,944,067[13]",2,12.80%
+46,Kunming Changshui International Airport,"Kunming, Yunnan",China,KMG/ZPPP,"047,178,347[13]",2,12.20%
+47,Xi'an Xianyang International Airport,"Xi'an, Shaanxi",China,XIY/ZLXY,"047,030,407[13]",2,13.70%
+48,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,YYZ/CYYZ,"046,800,000[38]",8,4.40%
+49,El Dorado International Airport,Bogotá,Colombia,BOG/SKBO,"045,816,050[39]",,16.00%
+50,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,MEX/MMMX,"045,359,500[40]",16,6.20%
