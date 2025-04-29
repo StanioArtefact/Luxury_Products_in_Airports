@@ -5,6 +5,8 @@ env/
 lux/
 .venv/
 .env/
+tourism/
+.tourism/
 
 # Fichiers temporaires Python
 __pycache__/

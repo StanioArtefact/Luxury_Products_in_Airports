@@ -24,14 +24,19 @@ top20 = filtered_df.head(20)
 
 # Plot bar chart
 fig = px.bar(
-    top20.sort_values('Expenditure_per_Visitor', ascending=True),  # for horizontal bar chart from smallest to largest
+    top20.sort_values('Expenditure_per_Visitor', ascending=True),
     x='Expenditure_per_Visitor',
     y='Country',
     orientation='h',
-    text='Expenditure_per_Visitor',
-    hover_data={'Country': True, 'Expenditure_per_Visitor': True, 'Rank': True},
+    text=top20['Expenditure_per_Visitor'].round(2),
+    hover_data={
+        'Country': True,
+        'Expenditure_per_Visitor': ':.2f',
+        'Rank': True
+    },
     title=f"Top 20 Countries by Visitor Expenditure in {year}"
 )
+
 fig.update_traces(texttemplate='%{text:.2f}', textposition='outside')
 fig.update_layout(
     xaxis_title="Expenditure per Visitor (USD)",
